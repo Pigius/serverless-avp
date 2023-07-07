@@ -1,6 +1,6 @@
 {
   "name": "serverless-avp",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Serverless Framework plugin for dealing with Amazon Verified Permissions",
   "main": "ServerlessAvpPlugin.js",
   "author": "Daniel Aniszkiewicz",
