@@ -1,0 +1,16 @@
+{
+  "name": "serverless-avp",
+  "version": "0.1.1",
+  "description": "Serverless Framework plugin for dealing with Amazon Verified Permissions",
+  "main": "ServerlessAvpPlugin.js",
+  "author": "Daniel Aniszkiewicz",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/client-verifiedpermissions": "^3.364.0"
+  },
+  "homepage":"https://github.com/Pigius/serverless-avp",
+  "repository" : {
+    "type": "git",
+    "url": "https://github.com/Pigius/serverless-avp"
+  }
+}
