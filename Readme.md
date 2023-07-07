@@ -72,7 +72,6 @@ To delete a policy store:
 
 ```
 sls deletePolicyStore
-
 ```
 
 Make sure that `policyStoreId` is within the custom avp configuration.
@@ -82,9 +81,7 @@ Make sure that `policyStoreId` is within the custom avp configuration.
 To add a schema to your policy store:
 
 ```
-
 sls putSchema
-
 ```
 
 Make sure that your configuration looks like this:
